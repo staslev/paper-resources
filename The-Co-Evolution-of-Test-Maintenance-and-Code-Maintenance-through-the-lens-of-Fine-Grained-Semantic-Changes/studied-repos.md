@@ -1,61 +1,63 @@
- 1. Botania
- 2. Chronicle-Map
- 3. FBReaderJ
- 4. ForestryMC
- 5. Omni-Notes
- 6. OpenID-Connect-Java-Spring-Server
- 7. RxJava
- 8. Tower
- 9. XPrivacy
-10. activemq
-11. androidannotations
-12. antlr4
-13. argouml
-14. basex
-15. bazel
-16. bc-java
-17. calcite
-18. camel
-19. checkstyle
-20. cometd
-21. cucumber-jvm
-22. drools
-23. elasticsearch
-24. encog-java-core
-25. error-prone
-26. fred
-27. grails-core
-28. graphhopper
-29. gwt
-30. h-store
-31. hadoop
-32. hazelcast-hazelcast
-33. hbase
-34. heritrix3
-35. httpclient
-36. i2p
-37. infinispan
-38. java-driver
-39. jclouds
-40. jena
-41. jitsi
-42. jodd
-43. k-9
-44. killbill
-45. kotlin
-46. logback
-47. marytts
-48. mina
-49. nifi
-50. orientdb
-51. pgjdbc
-52. platform_packages_apps_calendar
-53. ps3mediaserver
-54. restlet-framework-java
-55. spring-framework
-56. spring-xd
-57. storm
-58. struts
-59. tomcat70
-60. vaadin
-61. zxing
+ | Project | Test Methods  | Test Classes | Developres (Java) | LOC | Age | Commits Analyzed | 
+ | --- |  ---  | --- | --- | --- | --- | --- | 
+ | Botania | 0 | 0 | 52 | 71730 | 794 | 2380 | 
+ | Chronicle-Map | 186 | 58 | 11 | 28702 | 633 | 1088 | 
+ | FBReaderJ | 102 | 31 | 27 | 70853 | 2949 | 4696 | 
+ | ForestryMC | 0 | 0 | 33 | 88015 | 711 | 1160 | 
+ | Omni-Notes | 12 | 8 | 11 | 13713 | 894 | 1282 | 
+ | OpenID-Connect-Java-Spring-Server | 208 | 39 | 35 | 28817 | 1600 | 1199 | 
+ | RxJava | 1823 | 215 | 95 | 68792 | 1357 | 1669 | 
+ | Tower | 15 | 6 | 31 | 23413 | 957 | 2539 | 
+ | XPrivacy | 0 | 0 | 11 | 21400 | 765 | 3033 | 
+ | activemq | 2771 | 1523 | 67 | 375030 | 3775 | 6587 | 
+ | androidannotations | 499 | 114 | 64 | 35407 | 1909 | 1261 | 
+ | antlr4 | 5343 | 289 | 24 | 101536 | 2253 | 2194 | 
+ | argouml | 1565 | 717 | 39 | 106242 | 6193 | 1763 | 
+ | basex | 2499 | 395 | 67 | 143123 | 2988 | 5844 | 
+ | bazel | 2948 | 319 | 76 | 291447 | 412 | 3249 | 
+ | bc-java | 244 | 164 | 30 | 507702 | 1152 | 2279 | 
+ | calcite | 2463 | 151 | 68 | 262569 | 1446 | 1247 | 
+ | camel | 8377 | 5221 | 36 | 496578 | 2270 | 9880 | 
+ | checkstyle | 1714 | 324 | 78 | 99642 | 5409 | 3157 | 
+ | cometd | 666 | 275 | 10 | 50478 | 3537 | 1384 | 
+ | cucumber-jvm | 696 | 137 | 143 | 26989 | 2624 | 1162 | 
+ | drools | 5184 | 741 | 117 | 539574 | 3781 | 7644 | 
+ | elasticsearch | 6128 | 1282 | 285 | 550464 | 2257 | 12061 | 
+ | encog-java-core | 369 | 147 | 27 | 74726 | 2831 | 2967 | 
+ | error-prone | 1245 | 358 | 61 | 68119 | 1667 | 1107 | 
+ | fred | 667 | 193 | 83 | 197166 | 4075 | 8434 | 
+ | grails-core | 563 | 170 | 124 | 70763 | 3917 | 5345 | 
+ | graphhopper | 528 | 86 | 26 | 45828 | 1470 | 1549 | 
+ | gwt | 7002 | 1330 | 295 | 748881 | 3416 | 6772 | 
+ | h-store | 361 | 172 | 20 | 356209 | 1806 | 1723 | 
+ | hadoop | 9433 | 2112 | 111 | 993269 | 2271 | 7493 | 
+ | hazelcast-hazelcast | 12802 | 2504 | 101 | 362905 | 2676 | 5308 | 
+ | hbase | 3889 | 1021 | 136 | 831030 | 3297 | 8438 | 
+ | heritrix3 | 94 | 28 | 25 | 51134 | 2474 | 1199 | 
+ | httpclient | 1641 | 158 | 14 | 58457 | 3754 | 1780 | 
+ | i2p | 322 | 127 | 41 | 200994 | 4388 | 6367 | 
+ | infinispan | 4972 | 1605 | 111 | 433315 | 2581 | 5986 | 
+ | java-driver | 922 | 210 | 66 | 62775 | 1288 | 1226 | 
+ | jclouds | 7171 | 2219 | 198 | 329033 | 2535 | 5944 | 
+ | jena | 9794 | 1420 | 27 | 432425 | 1436 | 2801 | 
+ | jitsi | 450 | 119 | 38 | 346482 | 3877 | 3860 | 
+ | jodd | 1749 | 451 | 26 | 129314 | 2527 | 2710 | 
+ | k-9 | 666 | 87 | 115 | 79448 | 2719 | 3607 | 
+ | killbill | 978 | 340 | 22 | 123530 | 1609 | 2926 | 
+ | kotlin | 1821 | 327 | 126 | 361317 | 1983 | 20176 | 
+ | logback | 989 | 241 | 86 | 58011 | 3521 | 1849 | 
+ | marytts | 942 | 279 | 21 | 149000 | 3677 | 1661 | 
+ | mina | 292 | 89 | 24 | 23633 | 3392 | 1698 | 
+ | nifi | 1147 | 205 | 69 | 238920 | 492 | 1007 | 
+ | orientdb | 3113 | 666 | 73 | 293673 | 2190 | 4726 | 
+ | pgjdbc | 1329 | 192 | 73 | 46457 | 6792 | 1154 | 
+ | platform_packages_apps_calendar | 90 | 11 | 48 | 34289 | 1870 | 1161 | 
+ | ps3mediaserver | 138 | 18 | 24 | 34105 | 1867 | 1342 | 
+ | restlet-framework-java | 700 | 245 | 47 | 145161 | 3797 | 5383 | 
+ | spring-framework | 13092 | 2228 | 139 | 548660 | 2833 | 7918 | 
+ | spring-xd | 1298 | 354 | 65 | 94049 | 1055 | 1646 | 
+ | storm | 557 | 166 | 170 | 184858 | 1663 | 1493 | 
+ | struts | 2648 | 557 | 43 | 151472 | 3654 | 1564 | 
+ | tomcat70 | 1808 | 358 | 25 | 259673 | 3670 | 6718 | 
+ | vaadin | 3946 | 1512 | 109 | 333984 | 3463 | 10371 | 
+ | zxing | 343 | 122 | 46 | 42836 | 3059 | 1669 | 
